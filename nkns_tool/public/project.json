@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "上牧ニュータウン",
+        "category": "residential",
+        "location": "奈良県上牧町",
+        "year": "2020",
+        "description": "奈良県の北葛城郡に位置する町1",
+        "images": [
+            "/prohject1.png",
+            "/prohject2.png"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "河合ニュータウン",
+        "category": "residential",
+        "location": "奈良県河合町",
+        "year": "2021",
+        "description": "奈良県の北葛城郡に位置する町2",
+        "images": [
+            "/prohject3.png",
+            "/prohject4.png"
+        ]
+    }
+]
